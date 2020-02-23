@@ -160,7 +160,7 @@ Summary of AI companies at home and abroad
 |                    |                  |      |                |
 |                    |                  |      |                |
 
-# AI相关
+# 其它AI相关
 
 | 公司名称 |      主要业务      | 岗位 | base |
 | :------: | :----------------: | :--: | :--: |
