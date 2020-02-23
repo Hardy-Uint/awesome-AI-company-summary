@@ -1,6 +1,3 @@
-# awesome-AI-company-summary
-Summary of AI companies at home and abroad
-
 # 3D视觉相关公司汇总
 
 > 作者：Tom Hardy
