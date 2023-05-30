@@ -1,11 +1,5 @@
 # 3D视觉相关公司汇总
 
-> 作者：Tom Hardy
->
-> 公众号：[3D视觉工坊](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247484684&idx=1&sn=e812540aee03a4fc54e44d5555ccb843&chksm=fbff2e38cc88a72e180f0f6b0f7b906dd616e7d71fffb9205d529f1238e8ef0f0c5554c27dd7&token=1827898910&lang=zh_CN#rd)
-
-给大家整理了一些计算机视觉包括3D视觉相关的公司名单，岗位包括计算机视觉、三维重建、SLAM、vSLAM、自动驾驶、深度学习、机器视觉等算法。后期将会保持不断的更新，也欢迎大家提交补充~
-
 ## 计算机视觉相关
 
 
